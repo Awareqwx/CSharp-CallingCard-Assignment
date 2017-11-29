@@ -1,0 +1,8 @@
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\ASP\CallingCard\bin\Debug\netcoreapp1.1\CallingCard.deps.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\ASP\CallingCard\bin\Debug\netcoreapp1.1\CallingCard.runtimeconfig.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\ASP\CallingCard\bin\Debug\netcoreapp1.1\CallingCard.runtimeconfig.dev.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\ASP\CallingCard\bin\Debug\netcoreapp1.1\CallingCard.dll
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\ASP\CallingCard\bin\Debug\netcoreapp1.1\CallingCard.pdb
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\ASP\CallingCard\obj\Debug\netcoreapp1.1\CallingCard.AssemblyInfo.cs
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\ASP\CallingCard\obj\Debug\netcoreapp1.1\CallingCard.dll
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\ASP\CallingCard\obj\Debug\netcoreapp1.1\CallingCard.pdb
